@@ -1,0 +1,21 @@
+{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 2028,
+    "ResultDesc": "The request is not permitted according to product assignment.",
+    "OriginatorConversationID": "5957-8110816-1",
+    "ConversationID": "AG_20200324_00005288477d5d9d655e",
+    "TransactionID": "OCO71HBJT5",
+    "ReferenceData": {
+      "ReferenceItem": [
+        {
+          "Key": "QueueTimeoutURL",
+          "Value": "https:\/\/internalsandbox.safaricom.co.ke\/mpesa\/b2bresults\/v1\/submit"
+        },
+        {
+          "Key": "Occassion"
+        }
+      ]
+    }
+  }
+}
