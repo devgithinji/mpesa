@@ -1,0 +1,131 @@
+{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 7,
+    "ResultDesc": "The ReceiverParty information is invalid.",
+    "OriginatorConversationID": "29525-7766182-1",
+    "ConversationID": "AG_20200324_000076a9807f2d94d571",
+    "TransactionID": "OCO0000000",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "Occasion",
+        "Value": "DENSOFTDEVELOPERS"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 7,
+    "ResultDesc": "The ReceiverParty information is invalid.",
+    "OriginatorConversationID": "29523-7771568-1",
+    "ConversationID": "AG_20200324_000043aba057c285a4ad",
+    "TransactionID": "OCO0000000",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "Occasion",
+        "Value": "DENSOFTDEVELOPERS"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 7,
+    "ResultDesc": "The ReceiverParty information is invalid.",
+    "OriginatorConversationID": "29520-7772785-1",
+    "ConversationID": "AG_20200324_00004429ac31112586b5",
+    "TransactionID": "OCO0000000",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "Occasion",
+        "Value": "DENSOFTDEVELOPERS"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 2032,
+    "ResultDesc": "The transaction receipt number does not exist.",
+    "OriginatorConversationID": "28386-7760706-1",
+    "ConversationID": "AG_20200324_0000561a2b03f895f6b0",
+    "TransactionID": "OCO0000000",
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "Occasion",
+        "Value": "DENSOFTDEVELOPERS"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 0,
+    "ResultDesc": "The service request is processed successfully.",
+    "OriginatorConversationID": "29520-7776913-1",
+    "ConversationID": "AG_20200324_00007e757c3d84aa9b4a",
+    "TransactionID": "OCO0000000",
+    "ResultParameters": {
+      "ResultParameter": [
+        {
+          "Key": "DebitPartyName",
+          "Value": "254708374149 - John Doe"
+        },
+        {
+          "Key": "CreditPartyName",
+          "Value": "600196 - Safaricom219"
+        },
+        {
+          "Key": "OriginatorConversationID",
+          "Value": "28379-7456832-1"
+        },
+        {
+          "Key": "InitiatedTime",
+          "Value": 20200324133521
+        },
+        {
+          "Key": "CreditPartyCharges",
+          "Value": "Pay Utility Charge By Organization|KES|55.00"
+        },
+        {
+          "Key": "DebitAccountType",
+          "Value": "MMF Account For Customer"
+        },
+        {
+          "Key": "TransactionReason"
+        },
+        {
+          "Key": "ReasonType",
+          "Value": "Pay Bill Online"
+        },
+        {
+          "Key": "TransactionStatus",
+          "Value": "Completed"
+        },
+        {
+          "Key": "FinalisedTime",
+          "Value": 20200324133521
+        },
+        {
+          "Key": "Amount",
+          "Value": 700.00
+        },
+        {
+          "Key": "ConversationID",
+          "Value": "AG_20200324_00004b53cddb14384f34"
+        },
+        {
+          "Key": "ReceiptNo",
+          "Value": "OCO61HBJQC"
+        }
+      ]
+    },
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "Occasion",
+        "Value": "DENSOFTDEVELOPERS"
+      }
+    }
+  }
+}
