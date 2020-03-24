@@ -1,0 +1,103 @@
+{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 0,
+    "ResultDesc": "The service request is processed successfully.",
+    "OriginatorConversationID": "12714-7640233-1",
+    "ConversationID": "AG_20200324_0000515d2c9b34ec0b6f",
+    "TransactionID": "OCO51HBJT3",
+    "ResultParameters": {
+      "ResultParameter": [
+        {
+          "Key": "TransactionReceipt",
+          "Value": "OCO51HBJT3"
+        },
+        {
+          "Key": "TransactionAmount",
+          "Value": 2500
+        },
+        {
+          "Key": "B2CWorkingAccountAvailableFunds",
+          "Value": 1000000.00
+        },
+        {
+          "Key": "B2CUtilityAccountAvailableFunds",
+          "Value": 255692.00
+        },
+        {
+          "Key": "TransactionCompletedDateTime",
+          "Value": "24.03.2020 17:33:24"
+        },
+        {
+          "Key": "ReceiverPartyPublicName",
+          "Value": "254708374149 - John Doe"
+        },
+        {
+          "Key": "B2CChargesPaidAccountAvailableFunds",
+          "Value": -3520.00
+        },
+        {
+          "Key": "B2CRecipientIsRegisteredCustomer",
+          "Value": "Y"
+        }
+      ]
+    },
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "QueueTimeoutURL",
+        "Value": "https:\/\/internalsandbox.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"
+      }
+    }
+  }
+}{
+  "Result": {
+    "ResultType": 0,
+    "ResultCode": 0,
+    "ResultDesc": "The service request is processed successfully.",
+    "OriginatorConversationID": "12714-7640233-1",
+    "ConversationID": "AG_20200324_0000515d2c9b34ec0b6f",
+    "TransactionID": "OCO51HBJT3",
+    "ResultParameters": {
+      "ResultParameter": [
+        {
+          "Key": "TransactionReceipt",
+          "Value": "OCO51HBJT3"
+        },
+        {
+          "Key": "TransactionAmount",
+          "Value": 2500
+        },
+        {
+          "Key": "B2CWorkingAccountAvailableFunds",
+          "Value": 1000000.00
+        },
+        {
+          "Key": "B2CUtilityAccountAvailableFunds",
+          "Value": 255692.00
+        },
+        {
+          "Key": "TransactionCompletedDateTime",
+          "Value": "24.03.2020 17:33:24"
+        },
+        {
+          "Key": "ReceiverPartyPublicName",
+          "Value": "254708374149 - John Doe"
+        },
+        {
+          "Key": "B2CChargesPaidAccountAvailableFunds",
+          "Value": -3520.00
+        },
+        {
+          "Key": "B2CRecipientIsRegisteredCustomer",
+          "Value": "Y"
+        }
+      ]
+    },
+    "ReferenceData": {
+      "ReferenceItem": {
+        "Key": "QueueTimeoutURL",
+        "Value": "https:\/\/internalsandbox.safaricom.co.ke\/mpesa\/b2cresults\/v1\/submit"
+      }
+    }
+  }
+}
